@@ -1,5 +1,5 @@
 ### Olá!👋
-### Bem vindo ao meu mundo de ciência de dados! 📊
+### Bem vindo ao meu mundo de engenharia e ciência de dados! 📊
 
 
 ### Tecnologias e ferramentas que utilizo no dia a dia.
