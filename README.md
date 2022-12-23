@@ -2,7 +2,7 @@
 ### Bem vindo ao meu mundo de engenharia e ciência de dados! 📊
 
 
-![Syds674 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ytalo_Douglas&show_icons=true&theme=blue-green)
+![Syds674 GitHub stats](https://github-readme-stats.vercel.app/api?username=Syds674&show_icons=true&theme=blue-green)
 
 ### Tecnologias e ferramentas que utilizo no dia a dia.
 
